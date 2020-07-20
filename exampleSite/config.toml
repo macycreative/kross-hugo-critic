@@ -28,7 +28,7 @@ email = "steve.fruits@email.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = ""
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -64,9 +64,6 @@ icon = "ti-facebook"
 [[params.social]]
 URL = "#"
 icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
 [[params.social]]
 URL = "#"
 icon = "ti-twitter-alt"
