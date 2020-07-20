@@ -1,4 +1,4 @@
-baseURL = "http://therandomcritic.netlify.com"
+baseURL = "//therandomcritic.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
